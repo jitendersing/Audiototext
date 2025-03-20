@@ -1,4 +1,4 @@
-import speech_recognition as sr  
+import SpeechRrecognition as sr  
 from pydub import AudioSegment
 
 #mp3_file = "/home/kali/Downloads/dimpal.mp3"

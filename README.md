@@ -28,7 +28,7 @@ Thank you for using this project! If you found it helpful, feel free to ⭐ the 
 If you have any questions, feel free to reach out:  
 
 📩 **Email:** jscmcharan@gmai.com  
-🔗 **LinkedIn:** [Your Profile](https://www.linkedin.com/in/jitender-sing)  
+🔗 **LinkedIn:** [Jitender Singh](https://www.linkedin.com/in/jitender-sing)  
 
 ## 🛠 Issues & Collaboration  
 Feel free to **report any issues** or suggest improvements by opening an [issue](https://github.com/your-repo/issues).  

@@ -1,7 +1,7 @@
 import speech_recognition as sr  
 from pydub import AudioSegment
 
-mp3_file = "/home/kali/Downloads/dimpal.mp3"
+#mp3_file = "/home/kali/Downloads/dimpal.mp3"
 mp3_file = input("Enter complete file path : ")
 wav_file = "converted_audio.wav"
 

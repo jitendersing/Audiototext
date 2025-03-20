@@ -9,8 +9,8 @@ Run the following command:
 ```bash
 pip install -r requirements.txt
 
-##Install ffmpeg for convert the mp3 to wav
+### Install ffmpeg for convert the mp3 to wav
 sudo apt install ffmpeg
 
-#Now run the script
+### Now run the script
 python main.py

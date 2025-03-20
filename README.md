@@ -6,11 +6,8 @@ This is a Python-based speech-to-text conversion tool using `SpeechRecognition` 
 
 ### 1. Install Dependencies
 Run the following command:
-'''bash
+```bash
 pip install -r requirements.txt
 
-### Install ffmpeg for convert the mp3 to wav
+```bash
 sudo apt install ffmpeg
-
-### Now run the script
-python main.py

@@ -10,7 +10,7 @@ audio.export(wav_file, format="wav")
 
 recognizer = sr.Recognizer()
 
-audio_file = "/home/kali/converted_audio.wav"  
+audio_file = "converted_audio.wav"  
 
 # Open the file and recognize speech
 with sr.AudioFile(audio_file) as source:

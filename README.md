@@ -1,32 +1,13 @@
-# Speech-to-Text Converter
 
-A Python-based tool that converts speech from an MP3 file to text using `SpeechRecognition` and `pydub`.
+### **How It Works**
+- Each **triple-backtick (` ``` `) block** gets a copy button on GitHub.
+- The **copy button appears in GitHub's web interface** next to each code block.
+- **There is no limit** to how many you can add.
 
-## 🚀 Features
-- Converts `.mp3` audio files to text.
-- Uses Google Speech Recognition for high accuracy.
-- Error handling for unrecognized speech.
+### **Pro Tip**
+To make your `README.md` more organized:
+- Add **descriptive headers** (`## Title`) before each code block.
+- Use **comments inside the code** for extra clarity.
 
-## 🛠️ Installation
-
-### Prerequisites
-- Python 3.6+
-- FFmpeg (for audio conversion)
-
-### Install Dependencies
-```bash
-pip install -r requirements.tx
-
-_(With a copy button on the right)_
-
-#### **Supported Languages**
-You can use this feature with many languages, such as:
-- `bash`
-- `python`
-- `json`
-- `html`
-- `javascript`
-- `cpp` (for C++)
-
-Let me know if you need more details! 🚀
+Hope this helps! Let me know if you need more customizations. 🚀
 

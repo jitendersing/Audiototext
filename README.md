@@ -1,13 +1,35 @@
 
-### **How It Works**
-- Each **triple-backtick (` ``` `) block** gets a copy button on GitHub.
-- The **copy button appears in GitHub's web interface** next to each code block.
-- **There is no limit** to how many you can add.
+# Speech-to-Text Converter
 
-### **Pro Tip**
-To make your `README.md` more organized:
-- Add **descriptive headers** (`## Title`) before each code block.
-- Use **comments inside the code** for extra clarity.
+This is a Python-based speech-to-text conversion tool using `SpeechRecognition` and `pydub`.
 
-Hope this helps! Let me know if you need more customizations. 🚀
+## Installation
 
+### 1. Install Dependencies
+Run the following command:
+```bash
+pip install -r requirements.txt
+```
+**Installing FFmpeg**
+FFmpeg is required for pydub to work. Install it using:
+```bash
+sudo apt install ffmpeg
+```
+**Running the script**
+Execute the Python script with:
+```bash
+python3 audiototext.py
+```
+
+## 🙏 Thanks  
+Thank you for using this project! If you found it helpful, feel free to ⭐ the repository. Contributions, feedback, and suggestions are always welcome!  
+
+## 📧 Contact  
+If you have any questions, feel free to reach out:  
+
+📩 **Email:** jscmcharan@gmai.com  
+🔗 **LinkedIn:** [Your Profile](https://www.linkedin.com/in/jitender-sing)  
+
+## 🛠 Issues & Collaboration  
+Feel free to **report any issues** or suggest improvements by opening an [issue](https://github.com/your-repo/issues).  
+If you want to contribute, check the **Contributing Guidelines** and submit a pull request.  

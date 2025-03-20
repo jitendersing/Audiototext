@@ -15,4 +15,18 @@ A Python-based tool that converts speech from an MP3 file to text using `SpeechR
 
 ### Install Dependencies
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.tx
+
+_(With a copy button on the right)_
+
+#### **Supported Languages**
+You can use this feature with many languages, such as:
+- `bash`
+- `python`
+- `json`
+- `html`
+- `javascript`
+- `cpp` (for C++)
+
+Let me know if you need more details! 🚀
+

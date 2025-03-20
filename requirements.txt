@@ -1,2 +1,2 @@
-pip install speechrecognition
+pip install SpeechRecognition
 pip install pydub

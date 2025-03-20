@@ -1,13 +1,18 @@
 # Speech-to-Text Converter
 
-This is a Python-based speech-to-text conversion tool using `SpeechRecognition` and `pydub`.
+A Python-based tool that converts speech from an MP3 file to text using `SpeechRecognition` and `pydub`.
 
-## Installation
+## 🚀 Features
+- Converts `.mp3` audio files to text.
+- Uses Google Speech Recognition for high accuracy.
+- Error handling for unrecognized speech.
 
-### 1. Install Dependencies
-Run the following command:
+## 🛠️ Installation
+
+### Prerequisites
+- Python 3.6+
+- FFmpeg (for audio conversion)
+
+### Install Dependencies
 ```bash
 pip install -r requirements.txt
-
-```bash
-sudo apt install ffmpeg

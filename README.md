@@ -42,7 +42,7 @@ Thank you for using this project! If you found it helpful, feel free to ⭐ the 
 ## 📧 Contact  
 If you have any questions, feel free to reach out:  
 
-📩 **Email:** jscmcharan@gmai.com  
+📩 **Email:** [open E-mail]jscmcharan@gmai.com  
 🔗 **LinkedIn:** [Jitender Singh](https://www.linkedin.com/in/jitender-sing)  
 
 ## 🛠 Issues & Collaboration  

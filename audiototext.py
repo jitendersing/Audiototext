@@ -1,4 +1,4 @@
-import SpeechRecognition as sr  
+import speech_recognition as sr  
 from pydub import AudioSegment
 
 #mp3_file = "/home/kali/Downloads/dimpal.mp3"
@@ -24,4 +24,4 @@ with sr.AudioFile(audio_file) as source:
         print("Sorry, could not understand the audio.")
     except sr.RequestError:
         print("Error with the speech recognition service.")
-
+                                                              

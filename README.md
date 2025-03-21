@@ -20,7 +20,15 @@ Execute the Python script with:
 ```bash
 python3 audiototext.py
 ```
-
+##Important Notice
+While using the virtual machine, you may encounter an error related to external management. To resolve this issue, create a virtual environment for Python using the following command:
+Create a virtual environment:
+```python3 -m venv <your_env_name>``` 
+Activate the environment:
+ ```source <your_env_name>/bin/activate ```
+Install packages within the environment:
+```pip install <package_name> ```
+```
 ## 🙏 Thanks  
 Thank you for using this project! If you found it helpful, feel free to ⭐ the repository. Contributions, feedback, and suggestions are always welcome!  
 

@@ -42,9 +42,6 @@ Thank you for using this project! If you found it helpful, feel free to ⭐ the 
 ## 📧 Contact  
 If you have any questions, feel free to reach out:  
 
-📩 **Email:** [open E-mail]jscmcharan@gmai.com  
-🔗 **LinkedIn:** [Jitender Singh](https://www.linkedin.com/in/jitender-sing)  
-
 ## 🛠 Issues & Collaboration  
 Feel free to **report any issues** or suggest improvements by opening an [issue](https://github.com/your-repo/issues).  
 If you want to contribute, check the **Contributing Guidelines** and submit a pull request.  
